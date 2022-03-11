@@ -71,6 +71,13 @@
   .products .row {
     margin-left: 30px;
 }
+.form-group{
+  color: white;
+}
+#about {
+  padding: 150px;
+  color: white;
+}
 
   @media only screen and (max-width: 425px){
     iframe{
@@ -83,6 +90,10 @@
     }
     .products .row {
       margin-left: 15px;
+  }
+  #about {
+    padding: 50px;
+    color: white;
   }
   }
 
@@ -98,5 +109,9 @@
     }
     .products .row {
       margin-left: 15px;
+  }
+  #about {
+    padding: 50px;
+    color: white;
   }
   }
