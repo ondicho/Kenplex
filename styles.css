@@ -78,6 +78,14 @@
   padding: 150px;
   color: white;
 }
+.form-control {
+  background: #212529;
+  color: white;
+}
+.form-control:focus {
+  background: #212529;
+  color: white;
+}
 
   @media only screen and (max-width: 425px){
     iframe{
@@ -92,7 +100,7 @@
       margin-left: 15px;
   }
   #about {
-    padding: 50px;
+    padding: 40px;
     color: white;
   }
   }
